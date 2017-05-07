@@ -1,0 +1,45 @@
+# Frame 2004, PMID 14996930
+Src GENE
+directly ADV
+phosphorylates VBZ
+integrins GENE
+and CONJ
+can VBM
+also ADV
+modulate VBB
+R-Ras GENE
+activity NNS
+. .
+=====
+Moreover ADV
+, ,
+it PRP
+stimulates VBZ
+the ART
+E-cadhedrin GENE
+regulator GENE
+Hakai GENE
+, ,
+interacts VBZ
+with PRP
+and CONJ
+phosphorylates VBZ
+the ART
+novel JJ
+podosome-linked VBN
+adaptor NNS
+protein NNS
+Fish GENE
+, ,
+and CONJ
+progressively ADV
+phosphorylates VBZ
+the ART
+gap NNS
+junction NNS
+protein NNS
+component NNS
+connexion GENE
+43 GENE
+. 
+
